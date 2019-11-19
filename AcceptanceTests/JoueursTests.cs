@@ -37,7 +37,7 @@ namespace webapp.AcceptanceTests
         private async Task un_joueurAsync()
         {
             var mockRepo = new MockJoueurRepository();
-            _joueur = await mockRepo.GetById(0); 
+            _joueur = await mockRepo.GetById(1); 
         }
 
         private async Task l_utilisateur_demande_de_voir_la_liste_des_joueurs()
