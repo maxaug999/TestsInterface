@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\usager\\source\\repos\\exercice4-maxaug999\\PoolSaison2019\\PoolSaison2019.csproj": {}
+    "C:\\Users\\usager\\source\\repos\\TestsInterface\\PoolSaison2019\\PoolSaison2019.csproj": {}
   },
   "projects": {
-    "C:\\Users\\usager\\source\\repos\\exercice4-maxaug999\\PoolSaison2019\\PoolSaison2019.csproj": {
+    "C:\\Users\\usager\\source\\repos\\TestsInterface\\PoolSaison2019\\PoolSaison2019.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usager\\source\\repos\\exercice4-maxaug999\\PoolSaison2019\\PoolSaison2019.csproj",
+        "projectUniqueName": "C:\\Users\\usager\\source\\repos\\TestsInterface\\PoolSaison2019\\PoolSaison2019.csproj",
         "projectName": "PoolSaison2019",
-        "projectPath": "C:\\Users\\usager\\source\\repos\\exercice4-maxaug999\\PoolSaison2019\\PoolSaison2019.csproj",
+        "projectPath": "C:\\Users\\usager\\source\\repos\\TestsInterface\\PoolSaison2019\\PoolSaison2019.csproj",
         "packagesPath": "C:\\Users\\usager\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usager\\source\\repos\\exercice4-maxaug999\\PoolSaison2019\\obj\\",
+        "outputPath": "C:\\Users\\usager\\source\\repos\\TestsInterface\\PoolSaison2019\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
